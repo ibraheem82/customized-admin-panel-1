@@ -23,5 +23,8 @@ urlpatterns = [
     
     # Django jet admin customization base url
     path('jet/', include('jet.urls', 'jet')),
+    path('jet/dashboard', include('jet.dashboard.urls', 'jet-dashboard')),
+    
+    
     
 ]
