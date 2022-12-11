@@ -1,2 +1,4 @@
-customize/customize/manage.py
+/customize/customize/manage.py
 /ibraheem
+/customize/customize/db.sqlite3
+/customize/customize/__pycache__
